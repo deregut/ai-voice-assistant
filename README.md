@@ -1,5 +1,4 @@
-# [Swift](https://swift-ai.vercel.app)
-
+## The Groq API interface is too outdated and no longer works.
 Swift is a fast AI voice assistant.
 
 -   [Groq](https://groq.com) is used for fast inference of [OpenAI Whisper](https://github.com/openai/whisper) (for transcription) and [Meta Llama 3](https://llama.meta.com/llama3/) (for generating the text response).
